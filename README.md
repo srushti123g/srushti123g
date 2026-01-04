@@ -67,23 +67,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/srushti123g/Apna-video-call">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srushti123g&repo=Apna-video-call" />
-  </a>
-  <a href="https://github.com/srushti123g/Wanderlust">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srushti123g&repo=Wanderlust" />
-  </a>
-</p>
+[![Apna Video Call](https://github-readme-stats.vercel.app/api/pin/?username=srushti123g&repo=Apna-video-call)](https://github.com/srushti123g/Apna-video-call)
 
-<p align="center">
-  <a href="https://github.com/srushti123g/SIGMA_GPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srushti123g&repo=SIGMA_GPT" />
-  </a>
-</p>
+[![Wanderlust](https://github-readme-stats.vercel.app/api/pin/?username=srushti123g&repo=Wanderlust)](https://github.com/srushti123g/Wanderlust)
+
+[![SigmaGPT](https://github-readme-stats.vercel.app/api/pin/?username=srushti123g&repo=SIGMA_GPT)](https://github.com/srushti123g/SIGMA_GPT)
 
 ---
 
