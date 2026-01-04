@@ -2,15 +2,26 @@
   Hi 👋, I'm Srushti Gadakh
 </h1>
 
-<h3 align="center">
-  Java & MERN Stack Full-Stack Developer | Final-Year Engineering Student
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=22&
+  pause=1000&
+  color=2F80ED&
+  center=true&
+  vCenter=true&
+  width=500&
+  lines=Java+%26+MERN+Stack+Developer;
+  Full-Stack+Web+Developer;
+  AI+%26+Cloud+Enthusiast;
+  Open+to+Internships+%26+Entry-Level+Roles" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/srushti-gadakh-81796725b/" target="_blank">
+  <a href="https://www.linkedin.com/in/srushti-gadakh-81796725b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/srushti123g" target="_blank">
+  <a href="https://github.com/srushti123g">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:srushtigadakh441@gmail.com">
@@ -24,7 +35,7 @@
 
 🎓 Final-year **Electronics & Telecommunication Engineering** student (CGPA: **8.0**)  
 💻 **Java Programmer & MERN Stack Full-Stack Developer**  
-🚀 Passionate about building **real-world web applications**, AI-powered systems, and scalable backends  
+🚀 Passionate about building **real-world applications**, scalable backends, and AI-powered systems  
 ☁️ Google Cloud Certified | DSA with Java  
 🔍 Actively seeking **internships & entry-level roles**
 
@@ -59,48 +70,38 @@
 
 ## 🚀 Featured Projects
 
-### 📹 Apna Video Call
-🔹 Real-time video calling web app  
-🔹 WebRTC + Socket.io for live communication  
-🔹 Authentication & meeting rooms  
+<p align="center">
+  <a href="https://github.com/srushti123g/Apna-video-call">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srushti123g&repo=Apna-video-call" />
+  </a>
+  <a href="https://github.com/srushti123g/Wanderlust">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srushti123g&repo=Wanderlust" />
+  </a>
+</p>
 
-**Tech:** React · Node.js · Express · MongoDB
-
----
-
-### 🏡 Wanderlust
-🔹 Airbnb-style full-stack application  
-🔹 Authentication, listings & reviews  
-🔹 MVC architecture & Cloudinary uploads  
-
-**Tech:** Node.js · Express · MongoDB · EJS
-
----
-
-### 🤖 SigmaGPT
-🔹 AI-powered conversational web app  
-🔹 Gemini API with streaming responses  
-🔹 Persistent chat history  
-
-**Tech:** React · Node.js · MongoDB · Gemini API
+<p align="center">
+  <a href="https://github.com/srushti123g/SIGMA_GPT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srushti123g&repo=SIGMA_GPT" />
+  </a>
+</p>
 
 ---
 
-### 🧠 Stroke Image Classification
-🔹 Deep Learning project using CNN & VGG-16  
-🔹 Brain stroke CT image classification  
+## 🧠 Machine Learning Project
 
-**Tech:** TensorFlow · Keras
+### 🧠 Deep Learning-Based Stroke Image Classification
+- CNN & VGG-16 based brain stroke CT image classification  
+- Dataset preprocessing, model training & performance analysis  
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-✔ Google Cloud Engineer Track  
+✔ Google Cloud Engineer Track – Google Cloud  
 ✔ DSA with Java – Apna College  
 ✔ Full-Stack Web Development – Apna College  
 ✔ Google AI Essentials – Coursera  
-✔ IoT & Applications – NSTI Hyderabad  
+✔ IoT & Its Applications – NSTI Hyderabad  
 🏅 **Google Cloud Arcade Champion**
 
 ---
@@ -123,7 +124,6 @@
 ---
 
 ⭐ *Open to internships & entry-level roles in **Java / MERN Full-Stack Development***
-
 
 
 
